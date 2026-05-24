@@ -1,0 +1,11 @@
+{
+  "name": "atividade-adivinhe-numero-lista-tarefas",
+  "version": "1.0.0",
+  "description": "Atividades de Node.js e JavaScript: adivinhe o número e lista de tarefas",
+  "main": "atividade-1-adivinhe-o-numero/adivinhe.js",
+  "scripts": {
+    "adivinhe": "node atividade-1-adivinhe-o-numero/adivinhe.js"
+  },
+  "author": "Nicole Reinaldo de Carvalho",
+  "license": "ISC"
+}
