@@ -38,7 +38,3 @@ atividade-2-lista-de-tarefas/index.html
 ```
 
 Você pode abrir direto no navegador ou usar a extensão Live Server.
-
-## Arquivo para envio
-
-O arquivo `ATIVIDADE_PARA_ENVIO.txt` contém a descrição da atividade e os códigos principais em formato TXT.
